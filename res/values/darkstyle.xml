@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="DarkStyle" parent="@android:style/TextAppearance.Medium">        
+        <item name="android:textColor">#B0A50F</item>
+        <item name="android:background">#413A45</item>
+    </style>
+    
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="droidserifbold">fonts/droidserifbold.ttf</string>
+    <string name="droidserifitalic">fonts/droidserifitalic.ttf</string>
+    <string name="droidserifbolditalic">fonts/droidserifbolditalic.ttf</string>
+    <string name="droidserifregular">fonts/droidserifregular.ttf</string>
+    <string name="mystik">fonts/MystikOrbs.ttf</string>
+    <string name="romeodn">fonts/RomeoDN.ttf</string>
+    <string name="expletive">fonts/ExpletiveDeleted.ttf</string>
+</resources>
